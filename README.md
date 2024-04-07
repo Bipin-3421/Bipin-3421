@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 - I am currently learning **Full Stack Development**
 <h3 align="left">Connect with me:</h3>
-<a src='linkedin.com/in/lee-baral-759532195'>Linkedin</a>
+<a href='linkedin.com/in/lee-baral-759532195' target='_blank'>Linkedin</a>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
