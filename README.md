@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps and Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-8gx8lppc0-bipin3421s-projects.vercel.app/](https://portfolio-8gx8lppc0-bipin3421s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-me-gamma-six.vercel.app/
 
 - 💬 Ask me about **full stack development and guitar**
 
